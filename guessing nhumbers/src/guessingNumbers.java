@@ -6,8 +6,8 @@ public class guessingNumbers
 			{
 				Scanner userInput = new Scanner(System.in);
 
-				System.out.println("What's your name?");
-				String name = userInput.nextLine();
+				System.out.println("What's your name?");//helllooooo
+				String name = userInput.nextLine();//hahaha
 				boolean playAgain = true;
 				while (playAgain)
 					{
@@ -65,6 +65,7 @@ public class guessingNumbers
 								playAgain = false;
 
 							}
+						
 
 					}
 			}
